@@ -1,0 +1,47 @@
+body{
+    font-size:14px;
+    margin: 2px;
+    line-height:auto;
+    float:left;
+    width: 1200px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.center{
+    color: black;
+    text-align: center;
+    
+}
+.item img{
+    width: 200px;
+}
+
+.item{
+    float:left;
+    width:20%
+
+    
+}
+#about{
+    text-align: left;
+    
+    margin-left: 500px;
+}
+
+
+.third{
+    text-align: float;
+    float : left;
+    width:20%;
+    margin:1px;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-size: 14px;
+}
+.padding-32{
+    
+    text-align:center;
+    
+    
+}
